@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo/logo.png" alt="NutriMate AI Logo" width="260"/>
+<img src="Logo/Nutrimate_AI_Logo.png" alt="NutriMate AI Logo" width="260"/>
 
 # NutriMate AI
 
@@ -127,20 +127,20 @@ sequenceDiagram
 
 <table>
 <tr>
-<td width="50%"><img src="screenshots/login.png" alt="Login"/><p align="center"><b>Log In</b></p></td>
-<td width="50%"><img src="screenshots/signup.png" alt="Sign Up"/><p align="center"><b>Sign Up</b></p></td>
+<td width="50%"><img src="screenshots/Log_In_Page.png" alt="Login"/><p align="center"><b>Log In</b></p></td>
+<td width="50%"><img src="screenshots/Sign_Up_Page.png" alt="Sign Up"/><p align="center"><b>Sign Up</b></p></td>
 </tr>
 <tr>
-<td width="50%"><img src="screenshots/dashboard.png" alt="Dashboard"/><p align="center"><b>Dashboard</b></p></td>
-<td width="50%"><img src="screenshots/profile-calculator.png" alt="Profile & Calculator"/><p align="center"><b>Profile & Calculator</b></p></td>
+<td width="50%"><img src="screenshots/Dashboard.png" alt="Dashboard"/><p align="center"><b>Dashboard</b></p></td>
+<td width="50%"><img src="screenshots/Profile_&_Calculator.png" alt="Profile & Calculator"/><p align="center"><b>Profile & Calculator</b></p></td>
 </tr>
 <tr>
-<td width="50%"><img src="screenshots/ai-chat.png" alt="AI Agent Chat"/><p align="center"><b>AI Agent Chat</b></p></td>
-<td width="50%"><img src="screenshots/meal-plan.png" alt="AI Meal Plan"/><p align="center"><b>AI Meal Plan</b></p></td>
+<td width="50%"><img src="screenshots/AI_Agent_ChatBot.png" alt="AI Agent Chat"/><p align="center"><b>AI Agent Chat</b></p></td>
+<td width="50%"><img src="screenshots/AI_Meal_Plan_Generator.png" alt="AI Meal Plan"/><p align="center"><b>AI Meal Plan</b></p></td>
 </tr>
 <tr>
-<td width="50%"><img src="screenshots/food-water-log.png" alt="Food & Water Log"/><p align="center"><b>Food & Water Log</b></p></td>
-<td width="50%"><img src="screenshots/progress.png" alt="Progress"/><p align="center"><b>Progress Charts</b></p></td>
+<td width="50%"><img src="screenshots/Food_&_Water_Loged_Manager.png" alt="Food & Water Log"/><p align="center"><b>Food & Water Log</b></p></td>
+<td width="50%"><img src="screenshots/Progress_Graph_Generator.png" alt="Progress"/><p align="center"><b>Progress Charts</b></p></td>
 </tr>
 </table>
 
